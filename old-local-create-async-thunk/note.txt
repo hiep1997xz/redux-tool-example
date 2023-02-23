@@ -1,0 +1,20 @@
+** install prettier eslint-plugin-prettier eslint-config-prettier(config: -> .editorconfig, .prettierrc, .eslintrc)
+
+** Prettier
+- semi: ko dung dau cham phay ";"
+- singleQuote: dấu nháy đơn
+- printWidth: chiều rộng của đoạn text
+
+** install tailwindcss potscss autoprefixer
+
+** install prettier-plugin-tailwindcss
+
+
+
+
+
+
+
+** lý thuyết (theory)
+
+- createAction: 
